@@ -13,33 +13,3 @@ code {
     monospace;
 }
 
-/*countdown timer stylings*/
-/* const timer  {
-  display: 'flex',
-  justifyContent: 'space-around';
-}
-
-const time  {
-  color: 'white',
-  fontSize: '74px',
-} 
-
-const label  {
-  fontSize: '22px',
-  display: 'flex',
-  justifyContent: 'center',
-  backgroundColor: 'white',
-  minWidth: 'inherit',
-  color: '#000',
-  fontWeight: '100',
-}
-
-const section  {
-  display: 'flex',
-  flexDirection: 'column',
-  alignItems: 'center',
-  minWidth: '100px',
-  minHeight: '100px',
-  backgroundColor: 'black',
-  borderRadius: '7px',
-} */
